@@ -1,11 +1,11 @@
 <h1 align="center">
-  <span style="color:#F7DF1E;">Estudos em JavaScript</span> — <br>
-  <span style="color:#F7DF1E;">Programação Web e Lógica Moderna</span>
+  <span style="color:#F7DF1E;">Hashtag Treinamentos</span> — <br>
+  <span style="color:#F7DF1E;">JavaScript Impressionador</span>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" style="vertical-align:middle;"/>
 </h1>
 
 <p align="center">
-<img src="img/RocketSeat Logo.jpeg" alt="RocketSeat Logo" width="640">
+<img src="img/Hashtag_logo2.jpeg" alt="RocketSeat Logo" width="640">
 </p>
 
 <p align="center">
@@ -44,13 +44,32 @@
 
 </div>
 
+<h2 align="center">🌐 Hashtag Treinamentos:</h2>
+
+<div align="center">
+
+<a href="https://www.hashtagtreinamentos.com">
+  <img src="img/Hashtag_logo.jpeg" height="28" alt="Hashtag Treinamentos">
+</a>
+<a href="https://www.youtube.com/@HashtagProgramacao">
+  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=black">
+</a>
+<a href="https://www.instagram.com/hashtagtreinamentos/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/company/hashtag-treinamentos/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
 <h2 align="center">
   🏛️ Arquitetura do Repositório: <br>
   <img src="https://img.shields.io/badge/-Arquitetura-111827?style=flat-square&logo=instructure&logoColor=white"/>
 </h2>
 
 <pre>
-Repositorio-de-Estudos-em-JavaScript/
+JavaScript_Impressionador_HashtagTreinamentos/
 ├── .github<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
      width="8"
      style="background-color:white; padding:5px; border-radius:8px;" />/
@@ -67,9 +86,11 @@ Repositorio-de-Estudos-em-JavaScript/
      width="18"
      style="vertical-align:middle;"/>
 ├── img/
-│   └── RocketSeat Logo.jpeg<img src="https://cdn-icons-png.flaticon.com/512/136/136524.png"
+│   └── Hashtag_logo.jpeg<img src="https://cdn-icons-png.flaticon.com/512/136/136524.png"
      width="18"/>
-├── Rocketseat<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+│   └── Hashtag_logo2.jpeg<img src="https://cdn-icons-png.flaticon.com/512/136/136524.png"
+     width="18"/>
+├── JavaScript_Impressionador<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
      width="18"
      style="vertical-align:middle;"/>/
 │   └── conteudos-e-exercicios.js<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
