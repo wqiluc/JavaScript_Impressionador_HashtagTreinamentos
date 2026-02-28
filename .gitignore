@@ -1,0 +1,72 @@
+# Dependências
+node_modules/
+jspm_packages/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Arquivos de ambiente
+.env
+.env.*
+!.env.example
+
+# Build / Output
+dist/
+build/
+.next/
+.nuxt/
+.out/
+coverage/
+.tmp/
+.temp/
+
+# Cache
+.cache/
+.parcel-cache/
+.eslintcache
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+
+# IDE / Editores
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# TypeScript
+*.tsbuildinfo
+
+# Arquivos temporários
+*.pid
+*.seed
+*.pid.lock
+
+# Arquivos de teste
+coverage/
+.nyc_output/
+
+# Vite
+vite.config.ts.timestamp-*
+
+# Yarn
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+
+# PNPM
+.pnpm-store/
+
+# Docker
+docker-compose.override.yml
+
+# Misc
+*.tgz
